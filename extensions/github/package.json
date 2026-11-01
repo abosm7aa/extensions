@@ -1244,7 +1244,7 @@
   "dependencies": {
     "@octokit/rest": "^21.0.1",
     "@raycast/api": "^2.10.0",
-    "@raycast/utils": "^1.16.0",
+    "@raycast/utils": "^2.3.3",
     "date-fns": "^3.6.0",
     "graphql-request": "^6.1.0",
     "lodash": "^4.17.23",
